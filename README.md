@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @spitfiredaboi
+-  @spitfiredaboi
 - 👀 I’m interested in gatekeeping
-- 🌱 I’m currently learning how to destroy any evidence of One Piece ever existing
-- 💞️ I’m looking to collaborate on my future game "BallSlammaZ"
+- 💞️ I’m looking to collaborate on my future game "S*Quirt 2: Wetter Than Ever"
 - 📫 How to reach me: smoke signal
 
 <!---
